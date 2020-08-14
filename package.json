@@ -4,7 +4,8 @@
   "description": "app-electron",
   "main": "main.js",
   "scripts": {
-    "test": "start electron"
+    "start": "electron ."
+    "test": "start electron ."
   },
   "repository": {
     "type": "git",
