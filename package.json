@@ -1,0 +1,25 @@
+{
+  "name": "my_app",
+  "version": "1.0.0",
+  "description": "app-electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "start electron"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhDAndo/my_app.git"
+  },
+  "keywords": [
+    "my_app-electron"
+  ],
+  "author": "PhDAndo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhDAndo/my_app/issues"
+  },
+  "homepage": "https://github.com/PhDAndo/my_app#readme",
+  "devDependencies": {
+    "electron": "^9.2.0"
+  }
+}
